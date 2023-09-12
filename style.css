@@ -1,0 +1,8 @@
+.navbar .nav-item:hover .nav-link{
+	
+	background-color:yellow;
+	color: royalblue;
+	border-radius: 15px;
+	
+}
+
