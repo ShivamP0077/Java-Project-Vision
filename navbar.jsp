@@ -1,7 +1,10 @@
+<div class="container-fluid"
+	style="height: 10px; background-color: royalblue"></div>
+
 <div class="container-fluid p-3">
 	<div Class="row">
 		<div Class="col-md-3">
-			<img src="logo-transparent-png.png">
+		     <h2><i class="fa-solid fa-box"></i> SKart</h2>
 		</div>
 		<div class="col-md-6">
 			<form class="form-inline my-2 my-lg-0">
